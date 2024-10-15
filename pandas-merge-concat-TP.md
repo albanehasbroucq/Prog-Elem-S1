@@ -12,7 +12,7 @@ kernelspec:
   name: python3
 ---
 
-# TP à envoyer dimanche 13 au soir
+# TP à envoyer dimanche 13 au soir sans faute
 
 ## On a des fichiers à *recoller*
 
